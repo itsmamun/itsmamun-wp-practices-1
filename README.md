@@ -1,1 +1,1 @@
-# itsmamun-wp-practices-1
+# wp-practices-1
